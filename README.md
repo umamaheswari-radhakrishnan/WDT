@@ -1,2 +1,0 @@
-# WDT
-Web development Technologies
